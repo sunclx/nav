@@ -4,10 +4,10 @@
   "language": "zh-CN",
   "loading": "random",
   "showGithub": false,
-  "title": "发现导航 - 精选实用导航网站",
-  "description": "发现导航 - 精选实用导航网站",
-  "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
-  "theme": "Light",
+  "title": "个人导航",
+  "description": "个人导航",
+  "keywords": "个人导航",
+  "theme": "Side",
   "appTheme": "App",
   "headerContent": "",
   "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-present nav3.cn, All Rights Reserved</div>",
@@ -57,6 +57,6 @@
     }
   ],
   "showLanguage": false,
-  "showRate": true,
+  "showRate": false,
   "mirrorList": []
 }
